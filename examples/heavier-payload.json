@@ -1,0 +1,17 @@
+{
+  "rotor_kg_m2": 0.0002,
+  "gear_input_kg_m2": 5e-05,
+  "output_load_kg_m2": 0.09,
+  "output_rpm": 120,
+  "output_accel_rad_s2": 30,
+  "max_inertia_ratio": 5,
+  "max_motor_rpm": 3000,
+  "max_acceleration_nm": 0.31,
+  "ratios": [
+    10,
+    15,
+    20,
+    25,
+    30
+  ]
+}
